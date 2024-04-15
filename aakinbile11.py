@@ -1,7 +1,4 @@
-name = input("Enter your name: ")
+name = input("Enter your birthdate: ")
 
-print("Hello, " + name )
-print("Hello world")
-print("Hello world")
-print("Hello world")
-print("Hello world")
+print( name )
+
